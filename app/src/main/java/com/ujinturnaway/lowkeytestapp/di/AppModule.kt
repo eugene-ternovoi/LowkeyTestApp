@@ -128,7 +128,7 @@ class AppModule {
 
     companion object {
         private const val BASE_URL = "https://api.pexels.com/"
-        private const val PAGE_SIZE = 10
+        private const val PAGE_SIZE = 2
     }
 
 }
