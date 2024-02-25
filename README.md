@@ -13,3 +13,6 @@ https://www.pexels.com/api/documentation/#photos-curated
 - Add cache ✅
 - Pull to refresh ✅
 
+Video:
+https://github.com/eugene-ternovoi/LowkeyTestApp/assets/111692085/69b00a39-dff0-4d9a-ae02-717c8e8a7ec3
+
