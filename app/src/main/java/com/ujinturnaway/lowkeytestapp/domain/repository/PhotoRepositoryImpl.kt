@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.Flow
 class PhotoRepositoryImpl(
     private val pager: Pager<Int, PhotoEntity>,
     private val photosDatabase: PhotosDatabase,
-): PhotoRepository {
+) : PhotoRepository {
     override fun getPhotosListFlow(): Flow<PagingData<PhotoEntity>> {
         return pager.flow
     }

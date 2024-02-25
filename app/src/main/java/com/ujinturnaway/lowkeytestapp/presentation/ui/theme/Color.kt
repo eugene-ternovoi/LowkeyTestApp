@@ -1,9 +1,8 @@
 package com.ujinturnaway.lowkeytestapp.presentation.ui.theme
 
-import androidx.compose.ui.graphics.Color
-
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
+import androidx.compose.ui.graphics.Color
 
 val PrimaryColorLight = Color(0xFF363B64)
 val primaryColorDark = Color(0xFFD9D9DA)
